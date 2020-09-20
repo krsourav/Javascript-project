@@ -152,7 +152,7 @@ function draw(){
 
 }
 
-var z = setInterval(draw,5);
+var z = setInterval(draw,8);
 
 
 
